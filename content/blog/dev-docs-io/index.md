@@ -1,5 +1,5 @@
 ---
-title: DevDocs
+title: "DevDocs"
 date: "2022-07-05T16:39:00.000Z"
 description: "Documentation for web technologies like HTML, CSS, JavaScript, and React."
 url: "https://devdocs.io"

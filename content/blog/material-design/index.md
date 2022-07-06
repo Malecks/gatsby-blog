@@ -1,7 +1,7 @@
 ---
-title: Material Design
+title: "Material Design"
 date: "2022-07-05T19:48:00.000Z"
-# description: "Documentation for web technologies like HTML, CSS, JavaScript, and React."
+description: "Google's design system is everywhere, and it's a great resource to learn from."
 url: "https://material.io/design"
 ---
 

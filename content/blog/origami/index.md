@@ -1,7 +1,7 @@
 ---
 title: Origami
 date: "2022-07-06T00:11:00.000Z"
-description: "Advanced mobile prototyping tool developed by Facebook"
+description: "An advanced mobile prototyping tool developed by Facebook."
 url: "https://origami.design"
 ---
 

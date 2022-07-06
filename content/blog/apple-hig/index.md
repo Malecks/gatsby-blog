@@ -1,7 +1,7 @@
 ---
-title: Apple HIG
+title: "Apple HIG"
 date: "2022-07-05T19:48:00.000Z"
-# description: "Documentation for web technologies like HTML, CSS, JavaScript, and React."
+description: "Apple's guide to designing software for all of their products."
 url: "https://developer.apple.com/design/human-interface-guidelines"
 ---
 

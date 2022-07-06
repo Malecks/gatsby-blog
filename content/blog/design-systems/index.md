@@ -1,6 +1,7 @@
 ---
 title: Design Systems
 date: "2022-07-06T12:31:00.000Z"
+description: Atomic designs systems and notable examples.
 url: "https://bradfrost.com/blog/post/atomic-web-design"
 ---
 
