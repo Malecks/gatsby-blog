@@ -1,14 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Things I like`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alex Mathers`,
+      summary: `My name is Alex and I'm a Senior Product Designer at Shopify. I like art and design and code, and this is where I collect and share those things. Enjoy!`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A place to collect links and things I like.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `malecks`,
+      github: `malecks`,
     },
   },
   plugins: [
