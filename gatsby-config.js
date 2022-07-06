@@ -3,7 +3,7 @@ module.exports = {
     title: `things.malecks`,
     author: {
       name: `Alex Mathers`,
-      summary: `My name is Alex. I like art and design and code, and this is where I collect and share those things. Enjoy!`,
+      summary: `My name is Alex, I'm a Senior Product Designer at Shopify. I like design, and coding; and this is a list of things about that.`,
     },
     description: `A place to collect links of things I like.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,

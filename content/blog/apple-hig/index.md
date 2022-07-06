@@ -2,8 +2,11 @@
 title: Apple HIG
 date: "2022-07-05T19:48:00.000Z"
 # description: "Documentation for web technologies like HTML, CSS, JavaScript, and React."
-url: "https://developer.apple.com"
+url: "https://developer.apple.com/design/human-interface-guidelines"
 ---
 
-Apple's Human interface guidelines are a great first resource for understanding the intended use of design elements and interaction patterns for iOS, MacOS, and iPadOS.
+Apple's Human Interface Guidelines are a great first party resource for understanding the intended use of design elements and interaction patterns in app design.
 
+> The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
+
+You can find foundational concepts explained like Layout, Materials, and Typography. Patterns like Drag and Drop, Searching, and Onboarding. A massive list of components, and more.
