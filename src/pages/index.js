@@ -15,9 +15,7 @@ const BlogIndex = ({ data, location }) => {
         <Seo title="All posts" />
         <Bio />
         <p>
-          No blog posts found. Add markdown posts to "content/blog" (or the
-          directory you specified for the "gatsby-source-filesystem" plugin in
-          gatsby-config.js).
+          Nothing to see here. Sorry!
         </p>
       </Layout>
     )
@@ -44,7 +42,6 @@ const BlogIndex = ({ data, location }) => {
                       <span itemProp="headline">{title}</span>
                     </Link>
                   </h2>
-                  <small>{post.frontmatter.date}</small>
                 </header>
                 <section>
                   <p
@@ -52,11 +49,14 @@ const BlogIndex = ({ data, location }) => {
                       __html: post.frontmatter.description || post.excerpt,
                     }}
                     itemProp="description"
-                  />
+                  />  
+                  <Link to={post.frontmatter.url} itemProp="url">
+                    <span itemProp="url">{post.frontmatter.url}</span>
+                  </Link>
                 </section>
               </article>
             </li>
-          )
+          ) 
         })}
       </ol>
     </Layout>
@@ -82,6 +82,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          url
         }
       }
     }

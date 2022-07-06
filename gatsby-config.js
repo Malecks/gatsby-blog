@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Things I like`,
+    title: `things.malecks`,
     author: {
       name: `Alex Mathers`,
-      summary: `My name is Alex and I'm a Senior Product Designer at Shopify. I like art and design and code, and this is where I collect and share those things. Enjoy!`,
+      summary: `My name is Alex. I like art and design and code, and this is where I collect and share those things. Enjoy!`,
     },
-    description: `A place to collect links and things I like.`,
+    description: `A place to collect links of things I like.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `malecks`,
@@ -100,6 +100,7 @@ module.exports = {
                     frontmatter {
                       title
                       date
+                      url
                     }
                   }
                 }
