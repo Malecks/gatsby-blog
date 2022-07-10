@@ -1,7 +1,7 @@
 ---
 title: "Swift"
 date: "2022-07-06T12:31:00.000Z"
-description: "A fun programming language used to create apps for the Apple ecosystem"
+description: "A programming language used to create apps for the Apple ecosystem"
 url: "https://swift.org"
 ---
 
