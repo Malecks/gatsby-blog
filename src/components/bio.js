@@ -20,6 +20,7 @@ const Bio = () => {
           social {
             twitter
             github
+            email
           }
         }
       }
@@ -42,6 +43,9 @@ const Bio = () => {
             </li>
             <li>
               <a href={`https://github.com/${social?.github || ``}`}>Github</a>
+            </li>
+            <li>
+              <a href={`mailto:${social?.email || ``}`}>Email</a>
             </li>
           </ul>
     </div>
