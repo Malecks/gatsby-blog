@@ -8,7 +8,7 @@ module.exports = {
     description: `A place to collect links of things I like.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `malecks`,
+      resume: `malecks.com`,
       github: `malecks`,
       email: `alex@alexmathers.com`
     },

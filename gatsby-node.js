@@ -94,7 +94,7 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Social {
-      twitter: String
+      resume: String
       github: String
       email: String
     }
