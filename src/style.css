@@ -345,6 +345,10 @@ a:focus {
   margin-bottom: var(--spacing-8);
 }
 
+article img {
+  width: 100%;
+}
+
 /* Media queries */
 
 @media (max-width: 42rem) {
