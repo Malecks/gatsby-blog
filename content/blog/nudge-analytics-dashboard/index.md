@@ -4,23 +4,32 @@ date: "2023-08-09T13:08:00.000Z"
 description: "[Case study] Revamping the Nudge Analytics Dashboard"
 url: ""
 ---
-![Service booking](ServiceBookingCover.png)
+![Analytics cover](Analytics01.png)
 
 > Revamping the Nudge Analytics Dashboard
 
 The Nudge Analytics Dashboard project sought to transform the user experience and effectiveness of analytics within the Nudge CMS platform. The aim was to provide clearer, actionable insights to program managers and CS teams by reimagining the existing dashboard layout and addressing performance and usability issues.
 
-![Service booking](ServiceBooking1.png)
+![Analytics](Analytics05.png)
 
 ---
 
 ### Project Overview
 The Nudge Analytics Dashboard project sought to transform the user experience and effectiveness of analytics within the Nudge CMS platform. The aim was to provide clearer, actionable insights to program managers and CS teams by reimagining the existing dashboard layout and addressing performance and usability issues.
 
+![Analytics](Analytics06.png)
+
+---
+
 ### Key Problems Identified
 1. Slow loading times due to multiple charts and elements.
 2. Complex and opaque metrics leading to confusion.
 3. Low discoverability of relevant dashboards.
+
+![Previous dashboard](Analytics02.png)
+![Previous dashboard](Analytics04.png)
+
+---
 
 ### Proposed Solution
 - **Organized Dashboards**: Reorganized dashboards by in-app features for intuitive navigation, allowing program managers to gain insights into specific program areas quickly.
@@ -31,6 +40,8 @@ The Nudge Analytics Dashboard project sought to transform the user experience an
 
 - **Accessible Exports**: Provided upfront access to data tables for exporting, catering to unique or one-time analysis requests.
 
+![Analytics](Analytics08.png)
+
 ### My Role
 I led the design efforts for this project, addressing user needs and technical challenges. Responsibilities included conducting user research, creating modular graph components, and crafting polished screens that depict the ideal state of Nudge's analytics.
 
@@ -39,6 +50,8 @@ I led the design efforts for this project, addressing user needs and technical c
 - Designed modular graph components for consistency and ease of use.
 - Developed an intuitive dashboard layout, improving user access and discoverability.
 - Emphasized user-centric hierarchy for insights, enhancing relevance and actionable data.
+
+![Analytics](Analytics07.png)
 
 ### Outcomes
 The revamped Nudge Analytics Dashboard promises to provide program managers and CS teams with a more seamless, insightful experience. By prioritizing usability and performance, this redesign is poised to enhance decision-making and optimize operations, aligning with Nudge's commitment to empower users with data-driven insights.
