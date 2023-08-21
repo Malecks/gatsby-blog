@@ -1,8 +1,10 @@
 ---
 title: "PC Health: Service booking"
 date: "2023-08-09T13:08:00.000Z"
-description: "[Case study] Designing a health care service booking feature at League"
+description: "Designing a health care service booking feature at League"
 url: ""
+coverImg: ""
+category: "Case study"
 ---
 ![Service booking](ServiceBookingCover.png)
 

@@ -1,8 +1,10 @@
 ---
 title: "Nudge design system"
 date: "2023-08-08T12:02:00.000Z"
-description: "[Case study] Building (and re-building) a comprehensive design system and library"
+description: "Building (and re-building) a comprehensive design system and library"
 url: ""
+coverImg: "DesignLibrary08.png"
+category: "Case study"
 ---
 ![Design Library](DesignLibrary08.png)
 

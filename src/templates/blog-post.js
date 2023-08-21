@@ -21,6 +21,7 @@ const BlogPostTemplate = ({ data, location }) => {
         itemType="http://schema.org/Article"
       >
         <header>
+          <div className="category">{post.frontmatter.category}</div>
           <h1 itemProp="headline">{post.frontmatter.title}</h1>
           <Link to={post.frontmatter.url} itemProp="url">
               <span itemProp="url">{post.frontmatter.url}</span>
@@ -57,6 +58,8 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         description
         url
+        coverImg
+        category
       }
     }
     previous: markdownRemark(id: { eq: $previousPostId }) {

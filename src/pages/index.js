@@ -37,6 +37,7 @@ const BlogIndex = ({ data, location }) => {
                 itemType="http://schema.org/Article"
               >
                 <header>
+                  <div className={post.frontmatter.category ? "category" : "none"}>{ post.frontmatter.category }</div>
                   <h2>
                     <Link to={post.fields.slug} itemProp="url">
                       <span itemProp="headline">{title}</span>
@@ -83,6 +84,8 @@ export const pageQuery = graphql`
           title
           description
           url
+          coverImg
+          category
         }
       }
     }

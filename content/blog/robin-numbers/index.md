@@ -1,8 +1,10 @@
 ---
 title: "Robin numbers"
 date: "2023-08-16T13:08:00.000Z"
-description: "[Case study] Custom number animations in Origami studio"
+description: "Custom number animations in Origami studio"
 url: ""
+coverImg: "RobinNumbers3.png"
+category: "Case study"
 ---
 ![Robin numbers](RobinNumbers1.gif)
 

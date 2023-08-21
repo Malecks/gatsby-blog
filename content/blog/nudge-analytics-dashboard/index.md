@@ -1,8 +1,10 @@
 ---
 title: "Analytics Dashboard"
 date: "2023-08-09T13:08:00.000Z"
-description: "[Case study] Revamping the Nudge Analytics Dashboard"
+description: "Revamping the Nudge Analytics Dashboard"
 url: ""
+coverImg: "Analytics01.png"
+category: "Case study"
 ---
 ![Analytics cover](Analytics01.png)
 

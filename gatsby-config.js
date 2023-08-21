@@ -102,6 +102,8 @@ module.exports = {
                       title
                       date
                       url
+                      coverImg
+                      category
                     }
                   }
                 }

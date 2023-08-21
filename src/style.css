@@ -153,6 +153,24 @@ h6 > a {
   color: inherit;
 }
 
+.category {
+  padding: 2px 6px;
+  margin-bottom: 1rem;
+  margin-left: -6px;
+  font-size: var(--fontSize-0);
+  font-family: var(--fontFamily-sans);
+  font-weight: var(--fontWeight-medium);
+  color: var(--color-heading-black);
+  border-radius: 4px;
+  border: 0.25px solid #E4E4E4;
+  background: linear-gradient(331deg, rgba(0, 0, 0, 0.03) 0%, rgba(0, 0, 0, 0.00) 100%), #F5F5F5;
+  width: fit-content;
+}
+
+.none {
+  display: none;
+}
+
 /* Prose */
 
 p {

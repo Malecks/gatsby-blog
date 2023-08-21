@@ -1,8 +1,10 @@
 ---
 title: "Palette Cam"
-date: "2023-08-08T12:02:00.000Z"
-description: "[Case study] Building an iPhone app for creating colour palettes from photos"
+date: "2023-08-20T12:02:00.000Z"
+description: "Building an iPhone app for creating colour palettes from photos"
 url: "https://apps.apple.com/us/app/palette-create-beautiful-color/id1102067114"
+coverImg: "PaletteCam.png"
+category: "Case study"
 ---
 ![Palette Cam](PaletteCam.png)
 
