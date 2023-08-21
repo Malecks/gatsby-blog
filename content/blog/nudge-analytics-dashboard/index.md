@@ -8,16 +8,12 @@ url: ""
 
 > Revamping the Nudge Analytics Dashboard
 
-The Nudge Analytics Dashboard project sought to transform the user experience and effectiveness of analytics within the Nudge CMS platform. The aim was to provide clearer, actionable insights to program managers and CS teams by reimagining the existing dashboard layout and addressing performance and usability issues.
-
-![Analytics](Analytics05.png)
-
 ---
 
 ### Project Overview
 The Nudge Analytics Dashboard project sought to transform the user experience and effectiveness of analytics within the Nudge CMS platform. The aim was to provide clearer, actionable insights to program managers and CS teams by reimagining the existing dashboard layout and addressing performance and usability issues.
 
-![Analytics](Analytics06.png)
+![Analytics](Analytics05.png)
 
 ---
 
@@ -55,3 +51,5 @@ I led the design efforts for this project, addressing user needs and technical c
 
 ### Outcomes
 The revamped Nudge Analytics Dashboard promises to provide program managers and CS teams with a more seamless, insightful experience. By prioritizing usability and performance, this redesign is poised to enhance decision-making and optimize operations, aligning with Nudge's commitment to empower users with data-driven insights.
+
+![Analytics](Analytics06.png)
